@@ -1,0 +1,12 @@
+title: Tobias Oliver
+email: tgoliver_contact@tgohome.simplelogin.com
+github_username: tgoliver
+remote_theme: niklasbuschmann/contrast
+
+navigation:
+  - title: About
+    url: /about/
+  - title: CV
+    url: /cv/
+  - title: Legacy
+    url: /legacy-page/
